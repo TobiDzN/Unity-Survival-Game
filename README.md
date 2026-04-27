@@ -68,6 +68,8 @@ The player must manage hunger, thirst, and health while exploring the environmen
 ## Screenshots
 
 <img width="1919" height="1083" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/5307ffd1-3a43-4317-9439-14a0dc43d76f" />
+<img width="1922" height="1083" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/5a73c6a3-afc3-4877-91d1-f078311687ee" />
+<img width="1921" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/2d2d91b9-8df0-4543-89f6-af4ffc96123f" />
 
 
 ---
