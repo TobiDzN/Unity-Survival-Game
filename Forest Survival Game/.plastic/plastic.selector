@@ -1,0 +1,3 @@
+repository "Forest Survival Game/Forest Survival Game@18967105349047@cloud"
+  path "/"
+    smartbranch "/main"

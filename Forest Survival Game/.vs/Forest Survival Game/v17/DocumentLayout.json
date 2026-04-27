@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\SVProjects\\Forest Survival Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\assets\\scripts\\wolf\\wolfai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\wolf\\wolfai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36164529-EE22-4B84-54C5-3A3416412315}|Assembly-CSharp.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\assets\\scripts\\systems\\playervitals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36164529-EE22-4B84-54C5-3A3416412315}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\playervitals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|d:\\projects\\svprojects\\forest survival game\\assets\\scripts\\inventory\\scriptableobjectsitems\\materialsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\inventory\\scriptableobjectsitems\\materialsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|d:\\projects\\svprojects\\forest survival game\\assets\\scripts\\inventory\\itemslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\inventory\\itemslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|d:\\projects\\svprojects\\forest survival game\\assets\\scripts\\inventory\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\inventory\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Player\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:Assets\\Scripts\\Player\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\assets\\scripts\\campfire\\campfirecooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\campfire\\campfirecooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\WolfHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:Assets\\Scripts\\Wolf\\WolfHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36164529-EE22-4B84-54C5-3A3416412315}|Assembly-CSharp.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\assets\\scripts\\ui\\debughud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36164529-EE22-4B84-54C5-3A3416412315}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\debughud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\DayNightCycle\\DayNightController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DayNightCycle\\DayNightController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36164529-EE22-4B84-54C5-3A3416412315}|Assembly-CSharp.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\assets\\scripts\\systems\\gameclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36164529-EE22-4B84-54C5-3A3416412315}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\gameclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Player\\WaterCheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:Assets\\Scripts\\Player\\WaterCheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\WolfAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:Assets\\Scripts\\Wolf\\WolfAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Player\\PlayerPunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:Assets\\Scripts\\Player\\PlayerPunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Campfire\\PlayerInteractCampfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:Assets\\Scripts\\Campfire\\PlayerInteractCampfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Building\\BuildSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:Assets\\Scripts\\Building\\BuildSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\ClickMoveTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:Assets\\Scripts\\Wolf\\ClickMoveTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\WolfLocomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3266A8-0CA9-4CCE-6A37-49E1A04A111E}|Assembly-CSharp.Player.csproj|solutionrelative:Assets\\Scripts\\Wolf\\WolfLocomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialsData.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Inventory\\ScriptableObjectsItems\\MaterialsData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\ScriptableObjectsItems\\MaterialsData.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Inventory\\ScriptableObjectsItems\\MaterialsData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\ScriptableObjectsItems\\MaterialsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T16:09:51.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemSlotUI.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Inventory\\ItemSlotUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\ItemSlotUI.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Inventory\\ItemSlotUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\ItemSlotUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T16:07:04.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Inventory\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\PlayerInventory.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Inventory\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\PlayerInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:25:42.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CampfireCooking.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Campfire\\CampfireCooking.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Campfire\\CampfireCooking.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Campfire\\CampfireCooking.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Campfire\\CampfireCooking.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:20:43.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WaterCheck.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Player\\WaterCheck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\WaterCheck.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Player\\WaterCheck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\WaterCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T20:51:25.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerVitals.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Systems\\PlayerVitals.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\PlayerVitals.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Systems\\PlayerVitals.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\PlayerVitals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T21:15:23.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T20:28:35.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DebugHUD.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\UI\\DebugHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DebugHUD.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\UI\\DebugHUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DebugHUD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T21:34:46.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WolfAI.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\WolfAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wolf\\WolfAI.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\WolfAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wolf\\WolfAI.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAIwIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:37:58.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameClock.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Systems\\GameClock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\GameClock.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Systems\\GameClock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\GameClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T21:05:35.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WolfAudio.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\WolfAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wolf\\WolfAudio.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\WolfAudio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wolf\\WolfAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:04:05.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerPunch.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Player\\PlayerPunch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerPunch.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Player\\PlayerPunch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerPunch.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:52:45.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WolfHealth.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\WolfHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wolf\\WolfHealth.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\WolfHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wolf\\WolfHealth.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:50:39.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerInteractCampfire.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Campfire\\PlayerInteractCampfire.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Campfire\\PlayerInteractCampfire.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Campfire\\PlayerInteractCampfire.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Campfire\\PlayerInteractCampfire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:23:11.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuildSystem.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Building\\BuildSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Building\\BuildSystem.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Building\\BuildSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Building\\BuildSystem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:12:10.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClickMoveTest.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\ClickMoveTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wolf\\ClickMoveTest.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\ClickMoveTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wolf\\ClickMoveTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:42:50.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DayNightController.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\DayNightCycle\\DayNightController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DayNightCycle\\DayNightController.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\DayNightCycle\\DayNightController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DayNightCycle\\DayNightController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T21:23:52.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WolfLocomotion.cs",
+              "DocumentMoniker": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\WolfLocomotion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wolf\\WolfLocomotion.cs",
+              "ToolTip": "D:\\Projects\\SVProjects\\Forest Survival Game\\Assets\\Scripts\\Wolf\\WolfLocomotion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wolf\\WolfLocomotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:37:33.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
