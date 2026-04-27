@@ -37,12 +37,12 @@ The player must manage hunger, thirst, and health while exploring the environmen
 ### Cooking Mechanic
 
 * Raw food can be cooked over time using the campfire
-* Introduced a timer-based system to convert items (raw to cooked)
+* Introduced a timer based system to convert items (raw to cooked)
 
 ### Audio & Feedback
 
 * Added 3D sound effects (footsteps, wolf howl, fire)
-* Used distance-based audio for better immersion
+* Used distance based audio for better immersion
 
 ---
 
